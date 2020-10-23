@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+	<link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body>
+	<div class="h-screen grid grid-cols-6 text-center w-screen">
+		<div class="col-start-2 col-span-4 self-center">
+			<h1 class="uppercase text-3xl" id="txtLabel">Sin señal</h1>
+			<span>
+				<h1 class="uppercase text-3xl">Frecuencia:</h1>
+				<h1 class="uppercase text-3xl" id="txtFrequency">0.0000</h1>
+			</span>
+		</div>
+	</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.3.0/socket.io.js" integrity="sha512-v8ng/uGxkge3d1IJuEo6dJP8JViyvms0cly9pnbfRxT6/31c3dRWxIiwGnMSWwZjHKOuY3EVmijs7k1jz/9bLA==" crossorigin="anonymous"></script>
+<script src="js/utils.js"></script>
+<script src="js/result.js"></script>
+</body>
+</html>

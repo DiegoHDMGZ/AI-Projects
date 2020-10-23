@@ -1,0 +1,8 @@
+numpy
+matplotlib
+scipy
+scikit-learn
+scikit-image
+opencv-python
+fastai==1.0.61
+Flask

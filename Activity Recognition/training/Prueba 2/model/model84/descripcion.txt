@@ -1,0 +1,4 @@
+hidden_layer_sizes = (80, 40, 10)
+learning rate = 0.001
+alpha = 0.01
+epochs = 400

@@ -1,0 +1,2 @@
+accuracy training = 0.9933333333333333
+accuracy test = 0.9006696428571429
