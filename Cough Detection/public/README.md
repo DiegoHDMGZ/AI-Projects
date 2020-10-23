@@ -1,1 +1,2 @@
-Credit: https://github.com/kasperkamperman/MobileCameraTemplate
+# Resources
+https://github.com/kasperkamperman/MobileCameraTemplate
